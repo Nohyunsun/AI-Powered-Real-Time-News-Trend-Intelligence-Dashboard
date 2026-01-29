@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse Dashboard",
+  "description": "A real-time news and trend analysis dashboard featuring sentiment analysis, NER, and RAG-powered Q&A for historical insights.",
+  "requestFramePermissions": []
+}
